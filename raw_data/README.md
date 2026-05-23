@@ -1,0 +1,2 @@
+### Загрузите сюда папки с датасетами из бенчмарка [TSB-UAD-Public-v2](https://www.thedatum.org/datasets/TSB-UAD-Public-v2.zip), или прочие датасеты идентичного формата.
+###  Затем запустите sampler-r1-r2.py (ПЕРЕД запуском укажите путь, строки 500-510. Например raw_data/dataset_name_folder)
